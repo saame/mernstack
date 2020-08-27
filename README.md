@@ -1,6 +1,6 @@
 # mernstack
 
-To start
+To start program,
 software requirement for this project
 installed node.js
  
